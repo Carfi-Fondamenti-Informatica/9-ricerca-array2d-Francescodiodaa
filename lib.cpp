@@ -23,7 +23,7 @@ void confronto(char a1[10][20],char a2[10],int c) {
     for(int i=0;i<=10;i++) {
         if (strcmp(a2,a1[i]) == 0) {
             c=1;
-            cout<<1+i;
+            cout<<i;
             break;
         }
 
