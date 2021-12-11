@@ -29,7 +29,7 @@ void confronto(char a1[10][20],char a2[10],int c) {
 
     }
     if (c!=1){
-        cout<<"non presente";
+        cout<<"non presente.";
     }
 }
 
